@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.example"
+    versionCode = "10" 
+    version     = "0.1.0" >
+
+    <!-- versionCode is optional and Android only -->
+    <gap:platform name="android" />
+
+<!--     <icon src="GZ-icon.png" />
+
+    <gap:splash src="GZ-splash.png" /> -->
+
+    <name>BS</name>
+
+    <description>
+        BS Web Based Army Builder.
+    </description>
+
+    <author>
+        Sean Teague
+    </author>
+
+</widget>
