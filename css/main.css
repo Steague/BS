@@ -180,6 +180,18 @@ textarea {
     clear: both;
 }
 
+a.rem-game-system
+{
+    position: absolute;
+    right: .5em;
+    top: 4px;
+    z-index: 10 !important;
+    padding: .5em 1em !important;
+    webkit-border-radius: 1em !important;
+    border-radius: 1em !important;
+    height: 1em !important;
+}
+
 /* ==========================================================================
    EXAMPLE Media Queries for Responsive Design.
    These examples override the primary ('mobile first') styles.
